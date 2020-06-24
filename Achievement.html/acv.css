@@ -1,0 +1,62 @@
+body {
+
+	font-family: Arial;
+	font-size: 18;
+	
+
+}
+body a{
+	text-decoration:none;
+	color:black;
+
+#wrapper {
+
+	max-width:900px;
+	min-width:350px;
+	margin:auto;
+	
+	
+	
+}
+#main_title{
+
+	font-family: Times New Roman
+	color: white;
+	font-size:30px;
+
+}
+#img src="ldr.jpeg"
+	padding:50px;
+
+
+}
+#story {
+	word spacing:0;
+	color:white;
+	background-color:rgba(0,0,0,0.6);
+	margin-left:50px;
+	margin-right:50px;
+}
+#big_menu {
+	text-align:center;
+	word-spacing:10px;
+	
+
+}
+#footer{
+
+	background-color:rgb(20, 20, 20);
+	color:#fff;
+	padding-top:20px;
+	text-align:center;
+	height:80px;
+			
+
+
+
+
+	
+
+
+
+}

@@ -1,0 +1,45 @@
+body {
+	font-family:Arial;
+	font-size:20px;
+	
+}
+body a{
+	text-decoration:none;
+	color:white;
+	font-family:Times New Roman;
+}
+#wrapper{
+
+	max-width:2500px;
+	max-height:350;
+	margin:auto;
+	text-align:center;
+}
+#story{
+	color:white;
+	background-color:rgba(0,0,0,0.6);
+	height:200px;
+
+}
+#big_menu{
+	font-size:20px;
+	padding:10px;
+	word-spacing:10px;
+
+
+}
+#main_title {
+	font-family: Times New Roman;
+	font-size:30px;
+	
+}
+#footer {
+
+	background-color:rgb(20, 20, 20);
+	color:#fff;
+	padding-top:20px;
+	text-align:center;
+	height:80px;
+
+
+}

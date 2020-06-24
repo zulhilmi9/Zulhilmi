@@ -1,0 +1,78 @@
+
+body{
+
+	font-family:Times New Roman;
+	font-size: 20px;
+	color:yellow;
+	word-spacing:1px;
+	
+
+}
+body a{
+	text-decoration:none;
+	color:#fff;
+	word-spacing:10px;
+	
+
+}
+
+#wrapper {
+
+	max-width:1000px;
+	min-width:350px;
+	margin: auto;
+	text-align:center;
+	
+	
+
+}
+#main_title {
+
+	font-size:40px;
+	font-family: Times New Roman;
+	text-align:center;
+	letter-spacing:5px;
+	color:White;
+}
+
+#header{
+
+	margin:10px auto;
+	display: block;
+	
+
+}
+#Abt_me{
+
+	background-color:rgba(0,0,0,0.2);
+	text-align:center;
+	color:white;
+	margin-left:100px;
+	margin-right:100px
+	
+
+}
+#big_menu {
+	color:black;
+	word-spacing:10px;
+	
+
+
+
+	
+
+
+}
+#footer {
+	background-color:rgb(20, 20, 20);
+	color:#fff;
+	padding-top:20px;
+	text-align:center;
+	height:80px;
+
+
+
+
+
+
+}
